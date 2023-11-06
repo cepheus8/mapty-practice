@@ -12,3 +12,5 @@ The project was created during course, although I added two features to the fina
 
 - deleting workouts
 - editing workouts
+
+Link to the project: [https://mapty-project-rw.netlify.app](https://mapty-project-rw.netlify.app).
